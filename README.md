@@ -1,36 +1,36 @@
-<!-- RED TEAM CYBER BANNER -->
+<!-- DARK CYBER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=SHRUXM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=200&section=header&text=SHRUXM&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">🔴 Red Team | Ethical Hacking | AI Security Research 🔴</h3>
+<h3 align="center">Cyber Security Student | Network Security | AI in Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&lines=Red+Team+Mindset;Intrusion+Detection+Engineer;Graph+Neural+Network+Builder;Always+Testing+Always+Breaking" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=Cyber+Security+Enthusiast;Intrusion+Detection+Developer;Graph+Neural+Network+Learner;Focused+on+Ethical+Security" />
 </p>
 
 ---
 
-## 🧠 OPERATION PROFILE
+## 🧠 About Me
 
 ```bash
-> Access Level: Student
-> Mode: Red Team
-> Focus: Network Exploitation & AI Defense
-> Status: ACTIVE
+Security Mode: Ethical
+Focus Area   : Network Security + AI
+Learning     : Advanced Threat Detection
+Status       : Building & Improving
 ```
 
-- 🔴 Cyber Security Enthusiast
-- 🚨 Built Explainable Intrusion Detection System (GCN)
-- 🤖 Working on AI-powered threat detection
-- 🛡 Studying attack patterns & defense strategies
-- 🎯 Goal: Elite Security Engineer
+- 🎓 Computer Science Student passionate about Cyber Security  
+- 🔐 Interested in Network Defense & Intrusion Detection Systems  
+- 🤖 Exploring AI-driven Security Solutions  
+- 🛡 Focused on ethical and responsible security practices  
+- 🚀 Working toward becoming a professional Security Engineer  
 
 ---
 
-## 🚨 FLAGSHIP MISSION
+## 🚨 Featured Project
 
-### 🧠 Explainable Intrusion Detection System
+### Explainable Intrusion Detection System (GCN Based)
 
 ```
 Dataset      : UNSW-NB15
@@ -39,20 +39,21 @@ Framework    : PyTorch + PyTorch Geometric
 Explainable  : Captum (Integrated Gradients)
 ```
 
-✔ Network traffic preprocessing  
-✔ Graph construction via protocol similarity  
-✔ GNN-based attack detection  
-✔ Feature attribution using Integrated Gradients  
+✔ Preprocessed real-world network traffic  
+✔ Built graph structure using protocol similarity  
+✔ Trained GNN model for attack classification  
+✔ Applied explainability techniques to identify key attack features  
 
 ---
 
-## 🔥 TECH STACK
+## 💻 Technical Skills
 
-### 🛠 Offensive / Security
+### 🔐 Cyber Security
 - Kali Linux
 - Nmap
 - Wireshark
-- Network Analysis
+- Network Traffic Analysis
+- Intrusion Detection Concepts
 
 ### 🤖 AI / ML
 - Python
@@ -61,23 +62,23 @@ Explainable  : Captum (Integrated Gradients)
 - Pandas
 - Graph Neural Networks
 
-### 🌐 Dev
+### 🌐 Development
 - HTML
 - CSS
 - JavaScript
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHRUXM&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRUXM&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SHRUXM&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRUXM&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SHRUXM/SHRUXM/output/github-contribution-grid-snake-dark.svg" />
@@ -85,21 +86,21 @@ Explainable  : Captum (Integrated Gradients)
 
 ---
 
-## 👁 PROFILE VIEWS
+## 👁 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHRUXM&label=Profile%20Views&color=ff0000&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=SHRUXM&label=Profile%20Views&color=000000&style=flat" />
 </p>
 
 ---
 
-## 🌐 CONNECT
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: ([Add your link](https://www.linkedin.com/in/shreyas-shinde-034435280/))
+- 💼 LinkedIn: https://www.linkedin.com/in/shreyas-shinde-034435280/
 - 📧 Email: codesamurai105@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=120&section=footer"/>
 </p>
