@@ -64,6 +64,8 @@ Key Work:
 
 ---
 
+---
+
 ## GitHub Analytics
 
 <p align="center">
@@ -73,13 +75,17 @@ Key Work:
 
 ---
 
-## Activity
+## Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SHRUXM/SHRUXM/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHRUXM&label=Profile%20Views&color=0d1117&style=flat" />
+</p>
 
 ## Contact
 
